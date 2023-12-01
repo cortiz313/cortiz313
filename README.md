@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christian
 - 👀 I’m interested in programming, boxing/martial arts, traveling, and fitness
-- 🌱 I’m currently learning Computer Science at FIU, and I am a TA for Programming 2
-- 💞️ I’m looking to collaborate on projects with real world applications
+- 🌱 I’m currently a Computer Science student at FIU, and I am a TA for Data Structures
 - 📫 You can reach me via email c.ortiz313@gmail.com
 
 <!---
